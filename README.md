@@ -7,12 +7,12 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 ALMA introduces a **Neuro-Symbolic Architecture**:
 
-- 🧠 **Neuro Layer (LLM - Llama-3):** Handles Natural Language Understanding  
-- ⚙️ **Symbolic Layer (Python Engine):** Executes legal logic deterministically  
+-  **Neuro Layer (LLM - Llama-3):** Handles Natural Language Understanding  
+-  **Symbolic Layer (Python Engine):** Executes legal logic deterministically  
 
 This hybrid approach ensures:
 - No mathematical hallucinations  
