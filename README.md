@@ -1,4 +1,7 @@
 # ⚖️ ALMA: Automated Legal Mapping & Analysis System
+<img width="1907" height="741" alt="image" src="https://github.com/user-attachments/assets/2c6e79e9-ec08-41ec-ae4a-4c76638a63fd" />
+<img width="1603" height="813" alt="image" src="https://github.com/user-attachments/assets/4dffca49-7249-49d7-9c28-c1aca0aa8a4d" />
+
 
 **ALMA** is a Neuro-Symbolic AI expert system designed to provide deterministic legal assessments for Indian Statutory Laws. By decoupling semantic perception (LLM) from logical execution (Symbolic Math), ALMA eliminates the "hallucination" risks associated with pure generative AI in high-stakes legal domains.
 
